@@ -8,7 +8,7 @@
   </ul>
 </div>
 
- **<h2 align="left">I’m a dedicated computer science student with an engineering background, looking to make a difference through technology. My interest in fields like AI, networking, and software design drives me to constantly expand my skill set and engage in projects that solve real problems.</h2>**
+ **<h4 align="left">I’m a dedicated computer science student with an engineering background, looking to make a difference through technology. My interest in fields like AI, networking, and software design drives me to constantly expand my skill set and engage in projects that solve real problems.</h4>**
 
  **<h3 align="left">Skills</h3>**
 
